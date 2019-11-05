@@ -17,5 +17,6 @@ class HelloWorld
 
 	// Kolejny komentarz
 	// Hej
+	// no
     } 
 } 

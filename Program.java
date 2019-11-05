@@ -13,10 +13,5 @@ class HelloWorld
 	// To jest drugi komentarz
 	System.out.println("Hello, World"); 
 	// To już trzeci komentarz!
-	
-
-	// Kolejny komentarz
-	// Hej
-	// no
     } 
 } 

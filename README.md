@@ -1,4 +1,4 @@
-# IOLab5
+# No Jest Super się bawię
 Zajęcia z IO na Politechnice
 Krzysztof Charlikowski
 

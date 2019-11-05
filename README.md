@@ -1,4 +1,4 @@
-# IOLab5
+# Bardzo fajny projekt
 Zajęcia z IO na Politechnice
 Krzysztof Charlikowski
 

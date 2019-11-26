@@ -10,3 +10,4 @@ Grupa: I2
 
 Taka tam zmiana
 
+Robie to co mi kazano
